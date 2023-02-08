@@ -1,2 +1,3 @@
-# IHM_AlvaroCunha
-Repositorio para a disciplina S107 (Interface Homem-Maquina)
+# S107 - Interface Homem-Máquina
+
+Repositório de projetos referentes à disciplina S107 (Interface Homem-Máquina) do Inatel
