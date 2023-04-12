@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+    .parent {
+      position: relative;
+      width: 500px;
+      height: 600px;
+      border: 1px black solid;
+    }
+
+    .child {
+      position: absolute;
+      width: 150px;
+      height: 150px;
+      border: 1px black solid;
+    }
+
+    .child1 {
+      top: 100px;
+      left: 10px;
+    }
+
+    .child2 {
+      bottom: 10px;
+      right: 10px;
+    }
+	</style>
+</head>
+
+<body>
+  <div class="parent">
+    <h1>Div Pai!</h1>
+    <div class="child child1">
+      <h2>Filho 1</h2>
+    </div>
+    <div class="child child2">
+      <h2>Filho 2</h2>
+    </div>
+  </div>
+</body>
+</html>
